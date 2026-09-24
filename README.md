@@ -2,7 +2,7 @@
 
 Hi sir Leo! <3
 
-## Repository Overview
+## Overview
 This repository contains delivarables for the **Fundamentals of Programming** class.
 
 ---
